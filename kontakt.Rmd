@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Wintersemester 2021/22"
+description: "Wintersemester 2022-23"
 author: " "
 date: " "
 output:

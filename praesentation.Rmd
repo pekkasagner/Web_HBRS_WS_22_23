@@ -1,6 +1,6 @@
 ---
 title: "Abschlusspräsentation"
-description: "Sommersemester 2022"
+description: "Wintersemester 2022-23"
 author: " "
 date: " "
 output:
@@ -24,7 +24,7 @@ Ihre Präsentation soll zeigen, dass Sie sich mit den Inhalten der Vorlesung ver
 
 # Termin
 
-Der Termin für die finale Präsentation ist voraussichtlich der **01.07.2022**.
+Der Termin für die finale Präsentation ist voraussichtlich der **13.01.2023**.
 
 # Inhalt der Präsentation
 
@@ -38,7 +38,7 @@ Folgendes müssen Sie für eine erfolgreiche Abschlusspräsentation tun:
 
 1. Speichern Sie die Abbildungen für Ihre Präsentation in einem geeigneten Format, z.B. als png-, jpg- oder pdf-Datei. Erstellen Sie Ihre finale Präsentation mit einem Programm Ihrer Wahl, z. B. Microsoft Powerpoint. 
 
-1. Laden Sie Ihr Datenanalyseprojekt bis zum **29.06.2022** im entsprechenden LEA-Ordner hoch. Idealerweise erstellen Sie einen zip-Ordner. Folgende Dateien sollten hochgeladen werden:
+1. Senden Sie Ihr Datenanalyseprojekt bis zum **11.01.2023** an &raquo;sagner@iwkoeln.de&laquo;. Idealerweise erstellen Sie einen zip-Ordner. Folgende Dateien sollten bereitgestellt werden:
     + Ihr R-Projekt-Ordner: enthält R-Skript zur Datenanalyse, die analysierten Daten und die erstellten Abbildungen.
     + Ihre finale Präsentation als pdf-Datei. Diese kann auch im R-Projektordner gespeichert sein.
 

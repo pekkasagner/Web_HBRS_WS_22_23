@@ -1,6 +1,6 @@
 ---
 title: "Kursinhalte"
-description: "Sommersemester 2022"
+description: "Wintersemester 2022-23"
 author: " "
 date: " "
 output:
@@ -45,7 +45,9 @@ In dieser Sitzung besprechen wir die Inhalte der Vorlesung, installieren R und R
 
 ### Musterlösung
 
-[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 1 - Erste Schritte mit R und R-Studio&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_1.R)
+<!-- [`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 1 - Erste Schritte mit R und R-Studio&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_1.R) -->
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 1 - Erste Schritte mit R und R-Studio&laquo; als R-Datei öffnen]()
 
 ### Daten
 
@@ -72,7 +74,9 @@ zugrunde liegende Design-Philosophie, Grammatik und Datenstrukturen. Wir beschä
 
 ### Musterlösung
 
-[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 2 - Einführung in das Tidyverse&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_2.R)
+<!-- [`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 2 - Einführung in das Tidyverse&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_2.R) -->
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 2 - Einführung in das Tidyverse&laquo; als R-Datei öffnen]()
 
 ### Daten
 
@@ -104,7 +108,9 @@ In dieser Sitzung lernen wir die Syntax zum Erstellen von Abbildungen in R kenne
 
 ### Musterlösung
 
-[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 3 - Einführung in ggplot2&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_3.R)
+<!-- [`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 3 - Einführung in ggplot2&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_3.R) -->
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 3 - Einführung in ggplot2&laquo; als R-Datei öffnen]()
 
 ### Daten
 
@@ -135,7 +141,9 @@ Ein großer Teil der Zeit, die wir &raquo;im echten Leben&laquo; mit der Datenan
 
 ### Musterlösung
 
-[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 4 - Messy Data &zigrarr; Tidy Data&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_4.R)
+<!-- [`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 4 - Messy Data &zigrarr; Tidy Data&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_4.R) -->
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 4 - Messy Data &zigrarr; Tidy Data&laquo; als R-Datei öffnen]()
 
 ### Daten
 
@@ -160,7 +168,9 @@ Ein Datensatz alleine kann für sich genommen spannende Erkenntnisse bergen. Hä
 
 ### Musterlösung
 
-[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 5 -Mutating Joins - Grundlagen&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_5.R)
+<!-- [`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 5 -Mutating Joins - Grundlagen&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_5.R) -->
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 5 -Mutating Joins - Grundlagen&laquo; als R-Datei öffnen]()
 
 ### Daten
 
@@ -195,7 +205,9 @@ In diesem Teil der Veranstaltung lernen wir R als GIS kennen. Wir erstellen Kart
 
 ### Musterlösung
 
-[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 6 - Geodaten visualisieren&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_6.R)
+<!-- [`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 6 - Geodaten visualisieren&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_6.R) -->
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 6 - Geodaten visualisieren&laquo; als R-Datei öffnen]()
 
 ### Daten
 

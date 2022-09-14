@@ -26,14 +26,14 @@ library(tidyverse)
 library(kableExtra)
 library(fontawesome)
 
-tibble(Datum = c("08.04.2022",
-                 "22.04.2022",
-                 "06.05.2022",
-                 "20.05.2022",
-                 "03.06.2022",
-                 "10.06.2022",
-                 "24.06.2022",
-                 "01.07.2022"),
+tibble(Datum = c("30.09.2022",
+                 "14.10.2022",
+                 "28.10.2022",
+                 "11.11.2022",
+                 "25.11.2022",
+                 "09.12.2022",
+                 "16.12.2022",
+                 "13.01.2023"),
        Uhrzeit = rep(c("13:00 - 16:15 Uhr"), length(Datum)),
        Raum = c(rep(c("G-107"), length(Datum)-2), "\\- \\- \\- \\- \\-", "G-107"),
        "Geplanter Kursinhalt" = c("Kursvorstellung und erste Schritte",

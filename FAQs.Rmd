@@ -1,6 +1,6 @@
 ---
 title: "(F)AQs"
-description: "Sommersemester 2022"
+description: "Wintersemester 2022-23"
 author: " "
 date: " "
 output:
@@ -23,7 +23,7 @@ Hier werden (häufig) gestellte Fragen und Antworten gesammelt:
 #### Das Problem:
 Nach dem Einlesen, können die Daten nicht mit den üblichen Befehlen bearbeitet werden:
 
-```{r cache=T}
+```{r cache=F}
 library(tidyverse) 
 library(tidytuesdayR)
 
